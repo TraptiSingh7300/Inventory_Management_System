@@ -1,7 +1,7 @@
 # Inventory Management System 🧾📦
 
 A desktop Inventory Management System built with **Python**, **Tkinter**, and **MySQL**.  
-This README includes inline screenshots (actual images). Place the provided screenshots in the `screenshots/` folder so they render inside this README.
+This README includes inline screenshots (actual images).
 
 ---
 
