@@ -31,13 +31,13 @@ A user-friendly Inventory Management System with GUI for managing products, supp
 ## Screenshots 🖼️
 
 Login Screen  
-![Login Screen](screenshots/login.png)
+![Login Screen](Screenshots/login.png)
 
 Billing Screen  
-![Employee Sales Screen](screenshots/billing.png)
+![Employee Sales Screen](Screenshots/billing.png)
 
 Admin Dashboard  
-![Admin Dashboard](screenshots/dashboard.png)
+![Admin Dashboard](Screenshots/dashboard.png)
 
 ---
 
